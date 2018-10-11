@@ -1,0 +1,20 @@
+D:\17.11.0998\Pertemuan 3\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe.config
+D:\17.11.0998\Pertemuan 3\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe
+D:\17.11.0998\Pertemuan 3\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.pdb
+D:\17.11.0998\Pertemuan 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csprojResolveAssemblyReference.cache
+D:\17.11.0998\Pertemuan 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Form1.resources
+D:\17.11.0998\Pertemuan 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Properties.Resources.resources
+D:\17.11.0998\Pertemuan 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.GenerateResource.Cache
+D:\17.11.0998\Pertemuan 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.exe
+D:\17.11.0998\Pertemuan 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.pdb
+D:\17.11.0998\Pertemuan 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Form2.resources
+D:\AMIKOM\Semester 3\sabtu\Pertemuan 3\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe.config
+D:\AMIKOM\Semester 3\sabtu\Pertemuan 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.exe
+D:\AMIKOM\Semester 3\sabtu\Pertemuan 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.pdb
+D:\AMIKOM\Semester 3\sabtu\Pertemuan 3\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe
+D:\AMIKOM\Semester 3\sabtu\Pertemuan 3\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.pdb
+D:\AMIKOM\Semester 3\sabtu\Pertemuan 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csprojResolveAssemblyReference.cache
+D:\AMIKOM\Semester 3\sabtu\Pertemuan 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Form1.resources
+D:\AMIKOM\Semester 3\sabtu\Pertemuan 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Form2.resources
+D:\AMIKOM\Semester 3\sabtu\Pertemuan 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Properties.Resources.resources
+D:\AMIKOM\Semester 3\sabtu\Pertemuan 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.GenerateResource.Cache
